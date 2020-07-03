@@ -1,0 +1,60 @@
+body{
+    background: black;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: #7FFF00;
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+h2{
+    color: #7FFF00;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h3{
+    color: yellow;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+h4{
+    color: ghostwhite;
+    font-size: 16px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+p{
+    color: azure;
+    font-size: 24px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.link{
+    color: yellow;
+    font-weight: bold;
+}
+
+ol li{
+    color: azure;
+    text-align: center;
+    font-size: 24px;
+}
+
+.images{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
